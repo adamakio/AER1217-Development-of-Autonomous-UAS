@@ -20,7 +20,7 @@ A graduate course spanning the full autonomy stack for unmanned aerial systems: 
 
 Group 2's winning run — fastest gate-to-gate time in the class:
 
-<video src="Project/Group2_Trial3.MP4" controls title="AER1217 Competition — Group 2 winning run"></video>
+[▶ Watch competition video (Group2\_Trial3.MP4)](Project/Group2_Trial3.MP4)
 
 ---
 
