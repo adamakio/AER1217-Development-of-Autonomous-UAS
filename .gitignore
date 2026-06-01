@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Instructor materials (copyright)
+Lectures/
+Tutorials/
+AER1217_2025S_outline.pdf
+~$*
+
+# Labs 1 and 2 (setup/intro labs, not portfolio-worthy)
+Deliverables/Lab_1/
+Deliverables/Lab_2/
+
+# Large image dataset (~2900 drone camera frames)
+Deliverables/Lab_3/AER1217_Lab3_code_Group2/output_folder/
+
+# KITTI dataset images (external, >1 GB)
+Deliverables/Lab_4/code_repo/CityData/
+Deliverables/Lab_4/code_repo/CityData.zip
+
+# Personal working copies (duplicates Project root)
+Deliverables/Project/adam_code/
