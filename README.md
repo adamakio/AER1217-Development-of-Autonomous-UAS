@@ -10,9 +10,17 @@ A graduate course spanning the full autonomy stack for unmanned aerial systems: 
 
 | Folder | Topic | Key Methods |
 |--------|-------|-------------|
-| [Lab 3](Deliverables/Lab_3/) | Object detection + geo-localization | OpenCV HSV detection, back-projection, K-means + RANSAC |
-| [Lab 4](Deliverables/Lab_4/) | Stereo Visual Odometry | SIFT features, epipolar filtering, RANSAC + SVD pose estimation on KITTI |
-| [Project](Deliverables/Project/) | Autonomous quadrotor path planning | 3D grid search, obstacle avoidance — **1st place in class competition** |
+| [Lab 3](Lab_3/) | Object detection + geo-localization | OpenCV HSV detection, back-projection, K-means + RANSAC |
+| [Lab 4](Lab_4/) | Stereo Visual Odometry | SIFT features, epipolar filtering, RANSAC + SVD pose estimation on KITTI |
+| [Project](Project/) | Autonomous quadrotor path planning | 3D grid search, obstacle avoidance — **1st place in class competition** |
+
+---
+
+## Competition Demo
+
+Group 2's winning run — fastest gate-to-gate time in the class:
+
+<video src="Project/Group2_Trial3.MP4" controls title="AER1217 Competition — Group 2 winning run"></video>
 
 ---
 
