@@ -1,6 +1,6 @@
 # AER1217 — Development of Autonomous UAS
 
-**University of Toronto (UTIAS) | MEng Aerospace Science & Engineering | Winter/Spring 2025**
+**University of Toronto (UTIAS) | MEng Aerospace Science & Engineering | Winter 2025**
 
 A graduate course spanning the full autonomy stack for unmanned aerial systems: dynamics and control, computer vision, state estimation, and real-time path planning — implemented on both real hardware (Crazyflie, Parrot AR.Drone) and PyBullet simulation.
 
